@@ -8,13 +8,17 @@ a {
     text-decoration: none;
 }
 
-a:hover{
+a:hover {
     text-transform: uppercase; 
 }
 
 h1 {
     font-family: sans-serif ;
     color: white;
+}
+
+p {
+color: white;
 }
 
 main {
@@ -42,7 +46,11 @@ footer {
 }
 
 .grey {
-    color: #c9c9c9
+    color: #c9c9c9;
+}
+
+.black {
+    color: black;
 }
 
 #border {
